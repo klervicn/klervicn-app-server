@@ -1,0 +1,11 @@
+{
+  "name": "klervicn-app-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/klervicn/klervicn-app-server",
+  "author": "klervicn <corbel.klervi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "klervicn-ping-server": "^1.0.0"
+  }
+}
